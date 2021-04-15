@@ -1,0 +1,49 @@
+Treatment,time,Cell type,start,end
+high light,0 min,M, -Inf,44
+high light,0 min,BSS,44,99
+high light,0 min,M,99, Inf
+high light,5 min,M, -Inf,45
+high light,5 min,BSS,45,98
+high light,5 min,M,98, Inf
+high light,10 min,M, -Inf,53
+high light,10 min,BSS,53,96
+high light,10 min,M,96, Inf
+high light,15 min,M, -Inf,45
+high light,15 min,BSS,45,92
+high light,15 min,M,92, Inf
+high light,20 min,M, -Inf,46
+high light,20 min,BSS,46,97
+high light,20 min,M,97, Inf
+high light,30 min,M, -Inf,51
+high light,30 min,BSS,51,99
+high light,30 min,M,99, Inf
+high light,40 min,M, -Inf,49
+high light,40 min,BSS,49,94
+high light,40 min,M,94, Inf
+high light,60 min,M, -Inf,48
+high light,60 min,BSS,48,87
+high light,60 min,M,87,Inf
+0 min,0 min,M, -Inf,44
+0 min,0 min,BSS,44,99
+0 min,0 min,M,99, Inf
+0 min,5 min,M, -Inf,45
+0 min,5 min,BSS,45,98
+0 min,5 min,M,98, Inf
+0 min,10 min,M, -Inf,53
+0 min,10 min,BSS,53,96
+0 min,10 min,M,96, Inf
+0 min,15 min,M, -Inf,45
+0 min,15 min,BSS,45,92
+0 min,15 min,M,92, Inf
+0 min,20 min,M, -Inf,46
+0 min,20 min,BSS,46,97
+0 min,20 min,M,97, Inf
+0 min,30 min,M, -Inf,51
+0 min,30 min,BSS,51,99
+0 min,30 min,M,99, Inf
+0 min,40 min,M, -Inf,49
+0 min,40 min,BSS,49,94
+0 min,40 min,M,94, Inf
+0 min,60 min,M, -Inf,48
+0 min,60 min,BSS,48,87
+0 min,60 min,M,87,Inf
