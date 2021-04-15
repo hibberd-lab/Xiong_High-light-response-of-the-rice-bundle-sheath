@@ -1,0 +1,19 @@
+Treatment,time,Cell type,start,end
+high light,0 min,M, -Inf,44
+high light,0 min,BSS,44,99
+high light,0 min,M,99, Inf
+high light,5 min,M, -Inf,45
+high light,5 min,BSS,45,98
+high light,5 min,M,98, Inf
+high light,30 min,M, -Inf,51
+high light,30 min,BSS,51,99
+high light,30 min,M,99, Inf
+0 min,0 min,M, -Inf,44
+0 min,0 min,BSS,44,99
+0 min,0 min,M,99, Inf
+0 min,5 min,M, -Inf,45
+0 min,5 min,BSS,45,98
+0 min,5 min,M,98, Inf
+0 min,30 min,M, -Inf,51
+0 min,30 min,BSS,51,99
+0 min,30 min,M,99, Inf

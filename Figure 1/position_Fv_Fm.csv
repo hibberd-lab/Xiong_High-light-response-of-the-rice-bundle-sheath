@@ -1,0 +1,7 @@
+parameter,Light,start,end
+Fv/Fm,Dark, -Inf,-20
+Fv/Fm,LL,-20,0
+Fv/Fm,HL,0,Inf
+Fv'/Fm' (XE),Dark, -Inf,-20
+Fv'/Fm' (XE),LL,-20,0
+Fv'/Fm' (XE),HL,0,Inf
