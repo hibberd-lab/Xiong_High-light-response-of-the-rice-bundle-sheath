@@ -1,0 +1,7 @@
+parameter,Light,start,end
+Fq'/Fm' (OE),Dark, -Inf,-20
+Fq'/Fm' (OE),LL,-20,0
+Fq'/Fm' (OE),HL,0,Inf
+Fq'/Fm' (OE),Dark, -Inf,-20
+Fq'/Fm' (OE),LL,-20,0
+Fq'/Fm' (OE),HL,0,Inf
